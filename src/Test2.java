@@ -4,7 +4,7 @@ public class Test2 {
 		
 		String hungry="NO";
 				
-		if( hungry=="yes") {
+		if( hungry=="yes"||hungry=="NO") {
 			System.out.println("eat something");
 			
 		}else {
